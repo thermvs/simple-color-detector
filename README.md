@@ -1,2 +1,6 @@
 # simple-color-detector
-Real-time color detection with OpenCV
+* real-time color detection with OpenCV
+
+* analyzing color information in specific rectangular areas
+
+* the detected color is displayed as text on the frame
